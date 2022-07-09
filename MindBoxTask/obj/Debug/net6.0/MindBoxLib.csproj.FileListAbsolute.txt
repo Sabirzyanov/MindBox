@@ -1,0 +1,12 @@
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\bin\Debug\net6.0\MindBoxLib.deps.json
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\bin\Debug\net6.0\MindBoxLib.dll
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\bin\Debug\net6.0\MindBoxLib.pdb
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.csproj.AssemblyReference.cache
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.AssemblyInfoInputs.cache
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.AssemblyInfo.cs
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.csproj.CoreCompileInputs.cache
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.dll
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\refint\MindBoxLib.dll
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\MindBoxLib.pdb
+C:\MyFolders\Programming\C#\MindBoxTask\MindBoxTask\obj\Debug\net6.0\ref\MindBoxLib.dll
