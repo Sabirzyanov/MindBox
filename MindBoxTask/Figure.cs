@@ -11,7 +11,9 @@
         public Figure(string figureName)
         {
             _figureName = figureName;
-        }   
+        }
+
+        public abstract double CalculateFigureArea();
 
     }
 }

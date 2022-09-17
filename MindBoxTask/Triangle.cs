@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MindBoxLib
 {
-    public class Triangle : Figure, IAreaCalculabe
+    public class Triangle : Figure
     {
         // В задаче не было указано, что именно будет являться стороной
         // Поэтому, я взял самое простое решение - длина стороны
@@ -48,7 +48,7 @@ namespace MindBoxLib
         /// Для нахождения площади треугольника без высоты есть Формула Герона
         /// </summary>
         /// <returns>Возвращает значение площади</returns>
-        public double CalculateFigureArea()
+        public override double CalculateFigureArea()
         {
             double halfPerimeter = (_firstSideLength + _secondSideLength + _thirdSideLength) / 2;
             double square = Math.Sqrt(halfPerimeter * (halfPerimeter - _firstSideLength)

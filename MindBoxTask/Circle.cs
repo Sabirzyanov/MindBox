@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MindBoxLib
 {
-    public class Circle : Figure, IAreaCalculabe
+    public class Circle : Figure
     {
         private double _radius;
 
@@ -24,7 +24,7 @@ namespace MindBoxLib
         /// Для нахождения площади окружности
         /// </summary>
         /// <returns></returns>
-        public double CalculateFigureArea()
+        public override double CalculateFigureArea()
         {
             return Math.Round(Math.PI * Math.Pow(_radius, 2), 2);
         }

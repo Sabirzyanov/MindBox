@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YBJX/fNcCvEqPqhFfCUQdQx7Ha+TlrhrBPbUU29Dh2lEgS9gkbDETHOu1sKwsPP7rk3fDeROwKAqrx9yrguMbA==",
+  "dgSpecHash": "APUkwHmk7B/7hdDsJXrFNyKzKSa9U+mPKEdYGOnQ0ZiVMKr+Y/6ztfAfiI8dusVAp3nAt71jMJcLR/6KRShBYA==",
   "success": true,
-  "projectFilePath": "C:\\MyFolders\\Programming\\C#\\MindBoxTask\\MindBoxTask\\MindBoxLib.csproj",
+  "projectFilePath": "C:\\Programming\\C#\\MindBox\\MindBoxTask\\MindBoxLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
